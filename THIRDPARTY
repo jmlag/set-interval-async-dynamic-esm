@@ -3,7 +3,7 @@ This project consists of the following components:
 - set-interval-async/dynamic from (https://github.com/ealmansi/set-interval-async)
 - asyncToGenerator from (https://github.com/babel/babel/tree/main/packages/babel-helpers)
 
-Their respective licences are list below.
+Their respective licences are listed below.
 
 ======================================
 set-interval-async
