@@ -1,0 +1,19 @@
+{
+  "name": "set-interval-async-dynamic-esm",
+  "version": "1.0.33",
+  "description": "Minified dynamic-only ESM version of ealmansi/set-interval-async/dynamic",
+  "main": "index.mjs",
+  "author": "jmlag",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmlag/set-interval-async-dynamic-esm.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
